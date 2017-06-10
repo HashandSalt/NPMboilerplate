@@ -40,7 +40,7 @@ If everything went well, your site should spin up under a proxy to the local dom
 
 ### Using a Framework
 
-It's possible to load in a framework from `node_modeules` folder. For instance, to use Susy do the following:
+It's possible to load in a framework from `node_modules` folder. For instance, to use Susy, do the following:
 
 1. `yarn add susy`
 2. Open `package.json` and set line 12 to the path to Susy ie: `"frameworkpath": "node_modules/susy/sass"`.
