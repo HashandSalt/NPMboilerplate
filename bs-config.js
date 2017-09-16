@@ -27,7 +27,7 @@ module.exports = {
         "ignoreInitial": true
     },
     "server": false,
-    "proxy": "slateengine.dev",
+    "proxy": "example.dev",
     "port": 3000,
     "middleware": false,
     "serveStatic": [],
